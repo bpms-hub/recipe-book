@@ -2,3 +2,5 @@ baseURL = 'https://bpms-hub.github.io/recipe-book/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'hugo-theme-relearn'
+relativeURLs = false
+publishDir = 'docs'
