@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pastries :: Recipe Book</title>
+    <link>http://localhost:1313/recipe-book/pastry/index.html</link>
+    <description></description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jun 2025 14:56:12 -0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/recipe-book/pastry/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cinnamon Roll</title>
+      <link>http://localhost:1313/recipe-book/pastry/cinnamon-roll/index.html</link>
+      <pubDate>Sun, 01 Jun 2025 14:56:12 -0600</pubDate>
+      <guid>http://localhost:1313/recipe-book/pastry/cinnamon-roll/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Croissant</title>
+      <link>http://localhost:1313/recipe-book/pastry/croissant/index.html</link>
+      <pubDate>Sun, 01 Jun 2025 14:56:12 -0600</pubDate>
+      <guid>http://localhost:1313/recipe-book/pastry/croissant/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pan Suisse</title>
+      <link>http://localhost:1313/recipe-book/pastry/pan-suisse/index.html</link>
+      <pubDate>Sun, 01 Jun 2025 14:56:12 -0600</pubDate>
+      <guid>http://localhost:1313/recipe-book/pastry/pan-suisse/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Galette Dough</title>
+      <link>http://localhost:1313/recipe-book/pastry/galette-dough/index.html</link>
+      <pubDate>Sun, 01 Jun 2025 14:55:38 -0600</pubDate>
+      <guid>http://localhost:1313/recipe-book/pastry/galette-dough/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pie Dough</title>
+      <link>http://localhost:1313/recipe-book/pastry/pie-dough/index.html</link>
+      <pubDate>Sun, 01 Jun 2025 14:55:38 -0600</pubDate>
+      <guid>http://localhost:1313/recipe-book/pastry/pie-dough/index.html</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

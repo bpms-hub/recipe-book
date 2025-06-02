@@ -1,6 +1,6 @@
 var relearn_searchindex = [
   {
-    "breadcrumb": "My New Hugo Site",
+    "breadcrumb": "Recipe Book",
     "content": "",
     "description": "",
     "tags": [],
@@ -8,7 +8,7 @@ var relearn_searchindex = [
     "uri": "/recipe-book/log/index.html"
   },
   {
-    "breadcrumb": "My New Hugo Site",
+    "breadcrumb": "Recipe Book",
     "content": "",
     "description": "",
     "tags": [],
@@ -16,7 +16,7 @@ var relearn_searchindex = [
     "uri": "/recipe-book/categories/index.html"
   },
   {
-    "breadcrumb": "My New Hugo Site",
+    "breadcrumb": "Recipe Book",
     "content": "",
     "description": "",
     "tags": [],

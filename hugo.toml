@@ -1,6 +1,21 @@
 baseURL = 'https://bpms-hub.github.io/recipe-book/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Recipe Book'
 theme = 'hugo-theme-relearn'
-relativeURLs = false
+
+[params]
 publishDir = 'docs'
+relativeURLs = false
+minify = true
+themeVariant = 'zen-light'
+
+[outputs]
+  home = ['html', 'rss', 'print']
+  page = ['html', 'rss', 'print']
+  section = ['html', 'rss', 'print']
+
+[author]
+  email = 'beepiams@me.com'
+  name = 'Beep Iams'
+
+  
