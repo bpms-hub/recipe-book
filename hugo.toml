@@ -2,9 +2,9 @@ baseURL = 'https://bpms-hub.github.io/recipe-book/'
 languageCode = 'en-us'
 title = 'Recipe Book'
 theme = 'hugo-theme-relearn'
+publishDir = 'docs'
 
 [params]
-publishDir = 'docs'
 relativeURLs = false
 minify = true
 themeVariant = 'zen-light'

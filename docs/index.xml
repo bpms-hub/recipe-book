@@ -1,19 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recipe Book</title>
-    <link>http://localhost:1313/recipe-book/index.html</link>
+    <title>Home :: Recipe Book</title>
+    <link>https://bpms-hub.github.io/recipe-book/index.html</link>
     <description></description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Jun 2025 14:56:12 -0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/recipe-book/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://bpms-hub.github.io/recipe-book/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Log</title>
-      <link>http://localhost:1313/recipe-book/log/index.html</link>
-      <pubDate>Sun, 01 Jun 2025 14:56:12 -0600</pubDate>
-      <guid>http://localhost:1313/recipe-book/log/index.html</guid>
-      <description></description>
+      <title>Breads</title>
+      <link>https://bpms-hub.github.io/recipe-book/breads/index.html</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://bpms-hub.github.io/recipe-book/breads/index.html</guid>
+      <description>Here you’ll find recipes for all our classic and specialty breads, including enriched, sourdough, and whole grain varieties. Updates 2025-06-04: Added Whole Wheat Bread recipe with improved hydration and shaping tips. 2025-06-03: Rye Bread recipe now includes new fermentation schedule. 2025-06-02: Sourdough recipe updated with starter maintenance instructions. 2025-06-01: Breads section launched with Brioche, Rye, Sourdough, and Whole Wheat recipes. Recipes Brioche Rye Sourdough Whole Wheat</description>
+    </item>
+    <item>
+      <title>Cakes</title>
+      <link>https://bpms-hub.github.io/recipe-book/cakes/index.html</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://bpms-hub.github.io/recipe-book/cakes/index.html</guid>
+      <description>Here you’ll find recipes for all our sponges &amp; cakes. Updates 2025-05-04: Added Tiramisu recipe with detailed layering and chilling instructions. 2025-04-13: Improved Carrot Cake method for better moisture and crumb. 2025-03-22: Basque Cheesecake recipe now includes tips for slicing and packaging. 2025-02-07: Cakes section launched with Basque Cheesecake, Carrot Cake, and Sponge Cake recipes. Recipes Basque Cheesecake Carrot Cake Sponge Cake Tiramisu</description>
+    </item>
+    <item>
+      <title>Creams</title>
+      <link>https://bpms-hub.github.io/recipe-book/creams/index.html</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://bpms-hub.github.io/recipe-book/creams/index.html</guid>
+      <description>Here you’ll find recipes for all our pastry creams, whipped creams, and specialty cream fillings. Updates 2025-06-04: Added Almond Cream recipe with step-by-step mixing instructions. 2025-06-03: Updated Diplomat Cream with improved ingredient ratios and chilling tips. 2025-06-02: Mascarpone Cream recipe now includes folding technique for extra smoothness. 2025-06-01: Creams section launched with Diplomat Cream, Pastry Cream, Almond Cream, and Mascarpone Cream recipes. Recipes Almond Cream Pastry Cream Diplomat Cream Mascarpone Cream</description>
+    </item>
+    <item>
+      <title>Fillings</title>
+      <link>https://bpms-hub.github.io/recipe-book/fillings/index.html</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://bpms-hub.github.io/recipe-book/fillings/index.html</guid>
+      <description>Here you’ll find recipes for all our fruit curds, nut fillings, and specialty pastry fillings. Updates 2025-06-04: Added Mango Curd recipe with induction cooking and tart pouring instructions. 2025-06-03: Pistachio Bombo recipe now includes detailed piping and mixing steps. 2025-06-01: Fillings section launched with Mango Curd and Pistachio Bombo recipes. Recipes Mango Curd Pistachio Bombo</description>
+    </item>
+    <item>
+      <title>Glazes &amp; Syrups</title>
+      <link>https://bpms-hub.github.io/recipe-book/glazes--syrups/index.html</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://bpms-hub.github.io/recipe-book/glazes--syrups/index.html</guid>
+      <description>Here you’ll find recipes for all our finishing glazes, soaking syrups, and sweet toppings. Updates 2025-06-04: Added Maple Glaze recipe with easy mixing and application instructions. 2025-06-03: Almond Syrup recipe now includes storage and usage tips. 2025-06-01: Glazes &amp; Syrups section launched with Almond Syrup, Maple Glaze, and Vanilla Syrup recipes. Recipes Almond Syrup Maple Glaze Vanilla Syrup</description>
+    </item>
+    <item>
+      <title>Pastry</title>
+      <link>https://bpms-hub.github.io/recipe-book/pastry/index.html</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://bpms-hub.github.io/recipe-book/pastry/index.html</guid>
+      <description>Here you’ll find recipes for all our laminated, rolled, and enriched pastry doughs. Updates 2025-06-04: Added Croissant recipe with detailed lamination and shaping instructions for RAM sheeter. 2025-06-03: Galette Dough recipe now includes tips for sheeting and handling semolina dough. 2025-06-02: Pain Suisse recipe updated with improved filling and folding steps. 2025-06-01: Pastry section launched with Croissant, Cinnamon Roll, Galette Dough, Pain Suisse, and Pie Dough recipes. Recipes Galette Dough Pain Suisse Croissants Cinnamon Rolls Pie Dough</description>
     </item>
   </channel>
 </rss>

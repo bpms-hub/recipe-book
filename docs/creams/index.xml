@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Creams :: Recipe Book</title>
+    <link>https://bpms-hub.github.io/recipe-book/creams/index.html</link>
+    <description>Here you’ll find recipes for all our pastry creams, whipped creams, and specialty cream fillings. Updates 2025-06-04: Added Almond Cream recipe with step-by-step mixing instructions. 2025-06-03: Updated Diplomat Cream with improved ingredient ratios and chilling tips. 2025-06-02: Mascarpone Cream recipe now includes folding technique for extra smoothness. 2025-06-01: Creams section launched with Diplomat Cream, Pastry Cream, Almond Cream, and Mascarpone Cream recipes. Recipes Almond Cream Pastry Cream Diplomat Cream Mascarpone Cream</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jun 2025 15:20:00 -0600</lastBuildDate>
+    <atom:link href="https://bpms-hub.github.io/recipe-book/creams/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Almond Cream</title>
+      <link>https://bpms-hub.github.io/recipe-book/creams/almond/index.html</link>
+      <pubDate>Sun, 01 Jun 2025 15:20:00 -0600</pubDate>
+      <guid>https://bpms-hub.github.io/recipe-book/creams/almond/index.html</guid>
+      <description>Ingredients Ingredient ⅛ Batch ½ Batch 1 Batch Almond Extract 45g 90g 180g Almond Flour 250g 1500g 3000g Flour (AP) 24g 144g 288g Butter (room temp) 250g 1500g 3000g Powdered Sugar 250g 1500g 3000g Egg 150g 900g 1800g Salt 5g 30g 60g Method Cream butter and powdered sugar together. Add dry ingredients (almond flour, flour, salt). Add eggs and almond extract, mixing until smooth. Notes:&#xA;Use butter at room temperature for best results.</description>
+    </item>
+    <item>
+      <title>Pastry Cream</title>
+      <link>https://bpms-hub.github.io/recipe-book/creams/pastry/index.html</link>
+      <pubDate>Sun, 01 Jun 2025 15:10:00 -0600</pubDate>
+      <guid>https://bpms-hub.github.io/recipe-book/creams/pastry/index.html</guid>
+      <description>Ingredients Ingredient ¼ Batch ½ Batch 1 Batch Yolk 180g 720g 1440g Vanilla 20g 80g 160g Sugar 135g 540g 1080g Flour 100g 400g 800g Milk 666g 2664g 5328g Butter 35g 140g 280g Salt 6g 24g 48g Method Cream sugar and eggs until pale. Add flour. Add milk and vanilla. Whisk together. Bring to boil in pot, constantly stirring. Whisk vigorously until thickened. Remove from heat, strain, and whisk in butter. Chill on sheet tray between plastic wrap to keep film from forming. Notes:</description>
+    </item>
+    <item>
+      <title>Diplomat Cream</title>
+      <link>https://bpms-hub.github.io/recipe-book/creams/diplomatic/index.html</link>
+      <pubDate>Sun, 01 Jun 2025 14:56:12 -0600</pubDate>
+      <guid>https://bpms-hub.github.io/recipe-book/creams/diplomatic/index.html</guid>
+      <description>Ingredients Ingredient ½ Batch 1 Batch Cream 2200g 4000g Powdered Sugar 500g 1000g Salt 10g 20g Vanilla Paste 40g 80g Pastry Cream 500g 1000g Gelatin Sheet 10g 20g Additional Cream 50g 100g Method Bloom gelatin, strain, and reserve. Heat 500g pastry cream with 50g additional cream. Add gelatin, heat to 160°F to dissolve, blend with hand blender. Pass through chinois into the remaining pastry cream. Blend everything with hand blender until smooth. Temp should be at 120°F at time of pouring into cream. Mix cream, sugar, salt, and vanilla in mixer on medium-high setting (2) until medium stiff peaks. Slowly stream in 120°F temp pastry cream. Fold until glossy and peaks hold. Refrigerate. Re-whip before use to bring back gloss. Whip longer to achieve stronger hold, but be careful not to overwhip or it holds too many air pockets and doesn’t have the same glossy and smooth mouthfeel.</description>
+    </item>
+    <item>
+      <title>Mascarpone Cream</title>
+      <link>https://bpms-hub.github.io/recipe-book/creams/marscapone/index.html</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://bpms-hub.github.io/recipe-book/creams/marscapone/index.html</guid>
+      <description>Ingredients Ingredient ½ Batch 1 Batch Mascarpone Cheese 125g 250g Heavy Cream 100g 200g Powdered Sugar 30g 60g Vanilla Extract 1/2 tsp 1 tsp Lemon Zest (opt.) pinch pinch Preparation In a chilled bowl, combine mascarpone cheese and powdered sugar. Mix gently until smooth. Add vanilla extract and lemon zest (if using). In a separate bowl, whip heavy cream to soft peaks. Gently fold whipped cream into the mascarpone mixture until fully combined and smooth. Use immediately as a filling or topping, or refrigerate until needed.</description>
+    </item>
+  </channel>
+</rss>

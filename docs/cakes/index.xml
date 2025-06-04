@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cakes :: Recipe Book</title>
+    <link>https://bpms-hub.github.io/recipe-book/cakes/index.html</link>
+    <description>Here you’ll find recipes for all our sponges &amp; cakes. Updates 2025-05-04: Added Tiramisu recipe with detailed layering and chilling instructions. 2025-04-13: Improved Carrot Cake method for better moisture and crumb. 2025-03-22: Basque Cheesecake recipe now includes tips for slicing and packaging. 2025-02-07: Cakes section launched with Basque Cheesecake, Carrot Cake, and Sponge Cake recipes. Recipes Basque Cheesecake Carrot Cake Sponge Cake Tiramisu</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://bpms-hub.github.io/recipe-book/cakes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Basque Cheesecake</title>
+      <link>https://bpms-hub.github.io/recipe-book/cakes/basque-cheesecake/index.html</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://bpms-hub.github.io/recipe-book/cakes/basque-cheesecake/index.html</guid>
+      <description>Ingredients 900g cream cheese, room temp 350g sugar 6 large eggs 500g heavy cream 30g all-purpose flour 1 tsp vanilla extract Pinch of salt Preparation Preheat oven to 425°F (220°C). Line a springform pan with parchment, leaving overhang. Beat cream cheese and sugar until smooth. Add eggs one at a time, mixing well after each. Add cream, vanilla, and salt. Mix until smooth. Sift in flour and mix just to combine. Pour batter into prepared pan. Order of Layers Single layer: all batter in one pan. Refrigeration Cool at room temp, then refrigerate at least 4 hours or overnight for best texture. Cutting &amp; Packaging Use a hot, clean knife for clean slices. Wrap slices individually in parchment or plastic wrap. Store in airtight containers in the fridge.</description>
+    </item>
+    <item>
+      <title>Carrot Cake</title>
+      <link>https://bpms-hub.github.io/recipe-book/cakes/carrot-cake/index.html</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://bpms-hub.github.io/recipe-book/cakes/carrot-cake/index.html</guid>
+      <description>Ingredients 300g all-purpose flour 300g sugar 2 tsp baking powder 1½ tsp baking soda 1 tsp salt 2 tsp cinnamon 4 large eggs 240ml vegetable oil 400g grated carrots 100g chopped walnuts (optional) 100g raisins (optional) Cream Cheese Frosting:&#xA;400g cream cheese, room temp 100g butter, room temp 200g powdered sugar 1 tsp vanilla extract Preparation Preheat oven to 350°F (175°C). Grease and line two 8-inch pans. Mix dry ingredients in a bowl. Whisk eggs and oil, then add to dry mix. Fold in carrots, nuts, and raisins. Divide batter between pans and bake 30–35 min. Cool completely before frosting. Order of Layers Bottom cake layer Cream cheese frosting Top cake layer Frost top and sides Refrigeration Chill cake at least 1 hour before slicing for clean layers. Cutting &amp; Packaging Cut with a serrated knife. Wrap slices in parchment or place in bakery boxes. Store in fridge up to 5 days.</description>
+    </item>
+    <item>
+      <title>Sponge Cake</title>
+      <link>https://bpms-hub.github.io/recipe-book/cakes/sponge-cake/index.html</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://bpms-hub.github.io/recipe-book/cakes/sponge-cake/index.html</guid>
+      <description>Ingredients 200g cake flour 200g sugar 6 large eggs 60g milk 60g melted butter 1 tsp vanilla extract Pinch of salt Preparation Preheat oven to 350°F (175°C). Line two 8-inch pans. Whip eggs and sugar until pale and tripled in volume. Sift in flour and salt, fold gently. Mix milk, butter, and vanilla; fold into batter. Divide into pans, bake 25–30 min. Cool completely. Order of Layers Bottom sponge layer Optional syrup soak Filling (jam, cream, or fruit) Top sponge layer Finish with powdered sugar or whipped cream Refrigeration Chill filled cake at least 1 hour before slicing. Cutting &amp; Packaging Use a serrated knife for clean cuts. Wrap slices or store in airtight containers. Best consumed within 2 days.</description>
+    </item>
+    <item>
+      <title>Tiramisu</title>
+      <link>https://bpms-hub.github.io/recipe-book/cakes/tiramisu/index.html</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://bpms-hub.github.io/recipe-book/cakes/tiramisu/index.html</guid>
+      <description>Ingredients 300g ladyfingers 400g mascarpone cheese 4 large eggs, separated 100g sugar 300ml strong coffee, cooled 30ml coffee liqueur (optional) 200ml heavy cream Cocoa powder for dusting Preparation Whip egg yolks and sugar until pale. Add mascarpone and mix until smooth. Whip cream to soft peaks, fold into mascarpone mixture. Whip egg whites to stiff peaks, fold in gently. Mix coffee and liqueur in a shallow dish. Order of Layers Dip ladyfingers in coffee, line bottom of dish. Spread half the mascarpone mixture. Add another layer of dipped ladyfingers. Top with remaining mascarpone. Dust with cocoa powder. Refrigeration Chill at least 4 hours, preferably overnight, to set. Cutting &amp; Packaging Cut with a hot, clean knife. Portion into squares and place in dessert cups or boxes. Store refrigerated, consume within 3 days.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fillings :: Recipe Book</title>
+    <link>https://bpms-hub.github.io/recipe-book/fillings/index.html</link>
+    <description>Here you’ll find recipes for all our fruit curds, nut fillings, and specialty pastry fillings. Updates 2025-06-04: Added Mango Curd recipe with induction cooking and tart pouring instructions. 2025-06-03: Pistachio Bombo recipe now includes detailed piping and mixing steps. 2025-06-01: Fillings section launched with Mango Curd and Pistachio Bombo recipes. Recipes Mango Curd Pistachio Bombo</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jun 2025 14:56:12 -0600</lastBuildDate>
+    <atom:link href="https://bpms-hub.github.io/recipe-book/fillings/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mango Curd</title>
+      <link>https://bpms-hub.github.io/recipe-book/fillings/mango-curd/index.html</link>
+      <pubDate>Sun, 01 Jun 2025 14:56:12 -0600</pubDate>
+      <guid>https://bpms-hub.github.io/recipe-book/fillings/mango-curd/index.html</guid>
+      <description>Ingredients Ingredient ½ Batch 1 Batch Mango Puree 150g 300g Sugar 60g 120g Egg Yolks 40g 80g Whole Eggs 30g 60g Lemon Juice 10g 20g Unsalted Butter 60g 120g Salt pinch pinch Method In a saucepan, whisk together mango puree, sugar, egg yolks, whole eggs, lemon juice, and salt until smooth. Place the saucepan on an induction burner set to medium-low heat. Cook the mixture, stirring constantly with a heatproof spatula, making sure to scrape the sides and bottom. Heat gently until the curd thickens and reaches 82–84°C (180–183°F). Do not let it boil. Remove from heat and immediately whisk in the cold butter until fully emulsified and smooth. Strain the curd through a fine mesh sieve into a clean bowl to remove any cooked egg bits. Pouring Technique While the curd is still warm and fluid, carefully pour or ladle it into pre-baked tart shells. Tap the tart shells gently on the counter to level the curd and release any air bubbles. Allow the filled tarts to cool at room temperature for 10–15 minutes, then refrigerate until fully set (at least 2 hours). Garnish as desired before serving. Tip: For a glossy finish, cover the surface of the curd with plastic wrap to prevent a skin from forming while cooling.</description>
+    </item>
+    <item>
+      <title>Pistachio Bombo</title>
+      <link>https://bpms-hub.github.io/recipe-book/fillings/pistachio-bombo/index.html</link>
+      <pubDate>Sun, 01 Jun 2025 14:56:12 -0600</pubDate>
+      <guid>https://bpms-hub.github.io/recipe-book/fillings/pistachio-bombo/index.html</guid>
+      <description>Ingredients Ingredient ½ Batch 1 Batch Pistachio Paste 100g 200g Unsalted Butter 60g 120g Powdered Sugar 80g 160g Whole Eggs 50g 100g Heavy Cream 40g 80g Cornstarch 10g 20g Salt pinch pinch Mixing Instructions In a mixing bowl, cream together pistachio paste, butter, and powdered sugar until smooth and light. Add eggs gradually, mixing until fully incorporated. Mix in heavy cream, cornstarch, and salt until the mixture is smooth and homogenous. Transfer filling to a piping bag fitted with a medium round tip. Piping Instructions Pipe the pistachio bombo filling into prepared pastry shells, doughnuts, or desired baked goods. Fill until just below the rim to allow for expansion during baking or finishing. If using as a filling for choux or doughnuts, pipe into the center until the pastry feels full and slightly heavy. Optionally, dust with powdered sugar or glaze after filling.</description>
+    </item>
+  </channel>
+</rss>

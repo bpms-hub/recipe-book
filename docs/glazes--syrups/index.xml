@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Glazes &amp; Syrups :: Recipe Book</title>
+    <link>https://bpms-hub.github.io/recipe-book/glazes--syrups/index.html</link>
+    <description>Here you’ll find recipes for all our finishing glazes, soaking syrups, and sweet toppings. Updates 2025-06-04: Added Maple Glaze recipe with easy mixing and application instructions. 2025-06-03: Almond Syrup recipe now includes storage and usage tips. 2025-06-01: Glazes &amp; Syrups section launched with Almond Syrup, Maple Glaze, and Vanilla Syrup recipes. Recipes Almond Syrup Maple Glaze Vanilla Syrup</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jun 2025 14:56:12 -0600</lastBuildDate>
+    <atom:link href="https://bpms-hub.github.io/recipe-book/glazes--syrups/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Almond Syrup</title>
+      <link>https://bpms-hub.github.io/recipe-book/glazes--syrups/almond-syrup/index.html</link>
+      <pubDate>Sun, 01 Jun 2025 14:56:12 -0600</pubDate>
+      <guid>https://bpms-hub.github.io/recipe-book/glazes--syrups/almond-syrup/index.html</guid>
+      <description>Ingredients Ingredient ½ Batch 1 Batch Water 100g 200g Sugar 80g 160g Almond Extract 1/2 tsp 1 tsp Preparation In a small saucepan, combine water and sugar. Bring to a simmer over medium heat, stirring until sugar is fully dissolved. Remove from heat and let cool slightly. Stir in almond extract. Allow to cool completely before using. Store in a sealed container in the refrigerator.</description>
+    </item>
+    <item>
+      <title>Maple Glaze</title>
+      <link>https://bpms-hub.github.io/recipe-book/glazes--syrups/maple-glaze/index.html</link>
+      <pubDate>Sun, 01 Jun 2025 14:56:12 -0600</pubDate>
+      <guid>https://bpms-hub.github.io/recipe-book/glazes--syrups/maple-glaze/index.html</guid>
+      <description>Ingredients Ingredient ½ Batch 1 Batch Powdered Sugar 60g 120g Maple Syrup 30g 60g Milk (as needed) 1–2 tsp 2–4 tsp Salt small pinch pinch Preparation In a bowl, whisk together powdered sugar and salt. Add maple syrup and 1 tsp milk, whisking until smooth. Add more milk as needed, a few drops at a time, until desired consistency is reached (should be pourable but not runny). Use immediately to glaze pastries, cakes, or donuts. Allow glaze to set before packaging.</description>
+    </item>
+    <item>
+      <title>Vanilla Syrup</title>
+      <link>https://bpms-hub.github.io/recipe-book/glazes--syrups/vanilla-syrup/index.html</link>
+      <pubDate>Sun, 01 Jun 2025 14:56:12 -0600</pubDate>
+      <guid>https://bpms-hub.github.io/recipe-book/glazes--syrups/vanilla-syrup/index.html</guid>
+      <description>Ingredients Ingredient ½ Batch 1 Batch Water 100g 200g Sugar 80g 160g Vanilla Extract 1/2 tsp 1 tsp Preparation In a small saucepan, combine water and sugar. Bring to a simmer over medium heat, stirring until sugar is fully dissolved. Remove from heat and let cool slightly. Stir in vanilla extract. Allow to cool completely before using. Store in a sealed container in the refrigerator.</description>
+    </item>
+  </channel>
+</rss>
