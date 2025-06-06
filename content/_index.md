@@ -7,6 +7,8 @@ draft = false
 ## Welcome to GetRight's digital recipe book!
 
 Here you’ll find a curated collection of our favorite recipes, from classic breads and cakes to rich creams, flavorful fillings, and finishing glazes. Any additions or modifications can be sent to [beepiams@gmail.com](mailto:beepiams@gmail.com).
+
+
 ---
 
 ## Changelog & Updates
