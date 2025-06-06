@@ -4,10 +4,9 @@ date = "2025-06-01"
 draft = false
 +++
 
-## About Our Bakery
+## Welcome to GetRight's digital recipe book!
 
-Welcome to our bakery’s digital recipe book! Here you’ll find a curated collection of our favorite recipes, from classic breads and cakes to rich creams, flavorful fillings, and finishing glazes. Whether you’re a professional baker or a passionate home cook, our detailed instructions and tips will help you achieve delicious results every time.
-
+Here you’ll find a curated collection of our favorite recipes, from classic breads and cakes to rich creams, flavorful fillings, and finishing glazes. Any additions or modifications can be sent to [beepiams@gmail.com](mailto:beepiams@gmail.com).
 ---
 
 ## Changelog & Updates
